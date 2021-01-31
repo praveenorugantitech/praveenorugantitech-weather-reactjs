@@ -26,7 +26,7 @@ Forecast : [https://api.openweathermap.org/data/2.5/forecast?q=${value}&APPID=${
 git clone https://github.com/praveenorugantitech/praveenorugantitech-weather-reactjs.git
 cd praveenorugantitech-weather-reactjs
 
-create .env file and include your openweathermap details
+create .env file and include your API Key related to OpenWeather API
 
 REACT_APP_APIKEY=""
 
