@@ -3,6 +3,7 @@
 ### API
 
 Weather : [https://api.openweathermap.org/data/2.5/weather?q=${value}&APPID=${process.env.REACT_APP_APIKEY}&units=metric](https://api.openweathermap.org/data/2.5/weather?q=${value}&APPID=${process.env.REACT_APP_APIKEY}&units=metric)
+
 Forecast : [https://api.openweathermap.org/data/2.5/forecast?q=${value}&APPID=${process.env.REACT_APP_APIKEY}&units=metric](https://api.openweathermap.org/data/2.5/forecast?q=${value}&APPID=${process.env.REACT_APP_APIKEY}&units=metric)
     
     
