@@ -2,7 +2,7 @@
 
 ### API
 
-[https://api.openweathermap.org/data/2.5/forecast?q=${city}&APPID=${process.env.REACT_APP_KEY}](https://api.openweathermap.org/data/2.5/forecast?q=${city}&APPID=${process.env.REACT_APP_KEY})
+[https://api.openweathermap.org/data/2.5/forecast?q=${city}&APPID=${process.env.REACT_APP_APIKEY}](https://api.openweathermap.org/data/2.5/forecast?q=${city}&APPID=${process.env.REACT_APP_APIKEY})
 
 ### App Screenshots
 
@@ -22,7 +22,7 @@ cd praveenorugantitech-weather-reactjs
 
 create .env file and include your openweathermap details
 
-REACT_APP_KEY=""
+REACT_APP_APIKEY=""
 
 
 npm install
