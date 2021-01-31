@@ -1,22 +1,26 @@
-{  
+{
   "homepage": "https://praveenorugantitech.github.io/praveenorugantitech-weather-reactjs/",
   "name": "praveenorugantitech-weather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "prettier": "^1.18.2",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.1",
+    "styled-components": "^5.2.1",
+    "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",    
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": "react-app"

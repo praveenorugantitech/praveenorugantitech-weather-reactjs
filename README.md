@@ -1,12 +1,17 @@
-### Weather Forecast App developed using React JS
+### Weather Forecast App developed using React JS and OpenWeather API
 
 ### API
 
-[https://api.openweathermap.org/data/2.5/forecast?q=${city}&APPID=${process.env.REACT_APP_KEY}](https://api.openweathermap.org/data/2.5/forecast?q=${city}&APPID=${process.env.REACT_APP_KEY})
+Weather : [https://api.openweathermap.org/data/2.5/weather?q=${value}&APPID=${process.env.REACT_APP_APIKEY}&units=metric](https://api.openweathermap.org/data/2.5/weather?q=${value}&APPID=${process.env.REACT_APP_APIKEY}&units=metric)
+Forecast : [https://api.openweathermap.org/data/2.5/forecast?q=${value}&APPID=${process.env.REACT_APP_APIKEY}&units=metric](https://api.openweathermap.org/data/2.5/forecast?q=${value}&APPID=${process.env.REACT_APP_APIKEY}&units=metric)
+    
+    
 
 ### App Screenshots
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-weather-reactjs/master/src/images/screenshot.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-weather-reactjs/master/src/images/screenshot1.PNG)
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-weather-reactjs/master/src/images/screenshot2.PNG)
 
 
 ### Live Demo
@@ -22,7 +27,7 @@ cd praveenorugantitech-weather-reactjs
 
 create .env file and include your openweathermap details
 
-REACT_APP_KEY=""
+REACT_APP_APIKEY=""
 
 
 npm install
