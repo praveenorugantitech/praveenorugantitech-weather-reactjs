@@ -37,7 +37,7 @@ class App extends React.Component {
   // tries to make an API call with the given city name and triggers state update
   makeApiCall = async city => {
     const api_data = await fetch(
-      `https://api.openweathermap.org/data/2.5/forecast?q=${city}&APPID=6557810176c36fac5f0db536711a6c52`
+      `https://api.openweathermap.org/data/2.5/forecast?q=${city}&APPID=${process.env.REACT_APP_KEY}`
     ).then(resp => resp.json());
 
     if (api_data.cod === '200') {
