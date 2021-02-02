@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/praveenorugantitech-weather-reactjs/static/css/main.0c48f75c.chunk.css",
-    "main.js": "/praveenorugantitech-weather-reactjs/static/js/main.3c1b40bb.chunk.js",
+    "main.css": "/praveenorugantitech-weather-reactjs/static/css/main.f7acd1c0.chunk.css",
+    "main.js": "/praveenorugantitech-weather-reactjs/static/js/main.dc062286.chunk.js",
+    "main.js.map": "/praveenorugantitech-weather-reactjs/static/js/main.dc062286.chunk.js.map",
     "runtime-main.js": "/praveenorugantitech-weather-reactjs/static/js/runtime-main.7dcd47c3.js",
-    "static/js/2.54560fbe.chunk.js": "/praveenorugantitech-weather-reactjs/static/js/2.54560fbe.chunk.js",
+    "runtime-main.js.map": "/praveenorugantitech-weather-reactjs/static/js/runtime-main.7dcd47c3.js.map",
+    "static/js/2.f2f323b4.chunk.js": "/praveenorugantitech-weather-reactjs/static/js/2.f2f323b4.chunk.js",
+    "static/js/2.f2f323b4.chunk.js.map": "/praveenorugantitech-weather-reactjs/static/js/2.f2f323b4.chunk.js.map",
     "index.html": "/praveenorugantitech-weather-reactjs/index.html",
-    "static/js/2.54560fbe.chunk.js.LICENSE.txt": "/praveenorugantitech-weather-reactjs/static/js/2.54560fbe.chunk.js.LICENSE.txt",
+    "static/css/main.f7acd1c0.chunk.css.map": "/praveenorugantitech-weather-reactjs/static/css/main.f7acd1c0.chunk.css.map",
+    "static/js/2.f2f323b4.chunk.js.LICENSE.txt": "/praveenorugantitech-weather-reactjs/static/js/2.f2f323b4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/praveenorugantitech-weather-reactjs/static/media/background.a42ba6f1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7dcd47c3.js",
-    "static/js/2.54560fbe.chunk.js",
-    "static/css/main.0c48f75c.chunk.css",
-    "static/js/main.3c1b40bb.chunk.js"
+    "static/js/2.f2f323b4.chunk.js",
+    "static/css/main.f7acd1c0.chunk.css",
+    "static/js/main.dc062286.chunk.js"
   ]
 }
